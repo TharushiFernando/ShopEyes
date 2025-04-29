@@ -9,7 +9,7 @@ const QUICK_ACTIONS = [
     title: 'Shopping List',
     description: 'Manage your shopping items',
     icon: ShoppingBag,
-    color: '#007AFF',
+    color: '#ffff',
   },
   {
     id: 'scan-item',
